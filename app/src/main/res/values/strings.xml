@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Acraps</string>
+    <string name="sWinOutcome">WIN!</string>
+    <string name="sSevenOutcome">Seven!</string>
+    <string name="craps_outcome_text">Craps %1$d!</string>
+    <string name="natural_outcome_text">Natural %1$d!</string>
+</resources>
